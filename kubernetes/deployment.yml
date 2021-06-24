@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: simple-webapp-docker
-          image: dirane/simple-webapp-docker
+          image: ygu26/simple-webapp-docker
           ports:
             - containerPort: 8080
